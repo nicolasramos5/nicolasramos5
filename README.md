@@ -13,11 +13,18 @@ Bienvenido a mi perfil de GitHub.
 - **Virtualización:** VirtualBox.
 - **Scripting:** Bash y PowerShell.
 
+## 🎯 Objetivo profesional
+Seguir desarrollando mis conocimientos en administración de sistemas y servicios informáticos.
+
 ## 📂 Mis proyectos
 
 Aquí iré publicando prácticas y proyectos relacionados con ASIR:
 
 - Administración de sistemas Linux.
 - Instalación y gestión de máquinas virtuales.
+
+## 📫 Contacto
+
+- GitHub: (https://github.com/)
 
 ¡Gracias por visitar mi perfil!
