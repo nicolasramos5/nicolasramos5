@@ -1,4 +1,4 @@
-# ¡Hola! Soy estudiante de ASIR 👋
+<h1 align="center">¡Hola! Soy estudiante de 2.º de ASIR 👋 </h1>
 
 Bienvenido a mi perfil de GitHub.
 
