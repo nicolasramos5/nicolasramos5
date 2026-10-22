@@ -20,8 +20,8 @@ Seguir desarrollando mis conocimientos en administración de sistemas y servicio
 
 Aquí iré publicando prácticas y proyectos relacionados con ASIR:
 
-- Administración de sistemas Linux.
-- Instalación y gestión de máquinas virtuales.
+- Administración de sistemas Linux - Próximamente.
+- Instalación y gestión de máquinas virtuales - Próximamente.
 
 ## 📫 Contacto
 
