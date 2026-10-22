@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy estudiante de 2.º de ASIR 👋 </h1>
 
-Bienvenido a mi perfil de GitHub.
+<p align="center">Bienvenido a mi perfil de GitHub.</p>
 
 ## Sobre mí
 - 🎓 Estudiante de ASIR.
